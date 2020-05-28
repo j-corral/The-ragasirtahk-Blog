@@ -25,10 +25,7 @@ Credits if used as boilerplate (appreciated but not necessary).
 
 >Credits to this repository and theme creators (see https://github.com/ragasirtahk/The-ragasirtahk-Blog#theme-credits) will be highly appreciated, it takes quite a significant amount of time to make such kind of boilerplate. 
 
-Delete the contents of `/content/post` before using as boilerplate. Also delete the AdSense ad code in `/themes/hugo-tranquilpeak-theme/layouts/partials/footer.html` and `/themes/hugo-tranquilpeak-theme/layouts/partials/post/header.html
-` and delete / change the Google Analytics tracking ID in the `/config.toml` file.
-
-Please also delete `manifest.json`, `OneSignalSDKWorker.js`, `OneSignalSDKUpdaterWorker.js` and the folder `__MACOSX` located in `/static`.
+Delete the contents of `/content/post` before using as boilerplate. 
 
 >You can simply fork/clone/download this repository, upload to your server or deploy to **Netlify** and create your own blog. Remember to delete the contents of `/content/post` before uploading or deploying it.
 
